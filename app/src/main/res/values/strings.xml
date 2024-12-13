@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Getir</string>
+    <string name="address_title">Bahçelievler ev</string>
+    <string name="address_details">Bahçelievler Erde Sokak 16</string>
+    <string name="happiness_title">Bi mutluluk!</string>
+    <string name="happiness_subtitle">Siparişini şimdi ver, kapına kadar getirelim.</string>
+    <string name="getir_market">getirmarket</string>
+    <string name="getir_finans">getirfinans</string>
+    <string name="getir_carsi">getircarsi</string>
+    <string name="getir_arac">getirarac</string>
+    <string name="getir_alisveris">getiralısveriş</string>
+    <string name="getir_yemek">getiryemek</string>
+</resources>
